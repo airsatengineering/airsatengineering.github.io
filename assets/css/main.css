@@ -2379,7 +2379,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #4acaa8;
+			background-color: #04688e; /* 4acaa8 Turquoise color */
 			color: #ffffff !important;
 		}
 
