@@ -2379,7 +2379,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #4acaa8; /* 4acaa8 Turquoise color */
+			background-color: #3e98bc; /* 4acaa8 Turquoise color */
 			color: #ffffff !important;
 		}
 
@@ -2387,7 +2387,7 @@
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			.button.special:hover {
-				background-color: #5ed0b1; /* 5ed0b1 */
+				background-color: #186f91; /* 5ed0b1 */
 			}
 
 			input[type="submit"].special:active,
@@ -2512,7 +2512,7 @@
 			}
 
 			#header > header p {
-				color: #d1f1e9; /*#0382b5;/*#d1f1e9;*/
+				color: #d0e8f0; /*#d1f1e9;*/
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2533,7 +2533,7 @@
 			}
 
 				#header > footer .icons li a {
-					color: #b6e9dc; /*#04688e;/*#b6e9dc;*/
+					color: #d0e8f0; /*#b6e9dc;*/
 				}
 
 		#header > nav {
