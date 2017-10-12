@@ -1789,7 +1789,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #04688e;/*#4acaa8;*/
+			border-color: #4acaa8; /*#04688e;/*#4acaa8;*/
 		}
 
 	.select-wrapper {
