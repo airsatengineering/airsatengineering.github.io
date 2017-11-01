@@ -2449,14 +2449,6 @@
 /* Header */
 
 	#header {
-		background-image: url("../../images/banner.jpg");
-		background-position: top center;
-		background-repeat: no-repeat;
-		background-size: cover;
-		content: '';
-		display: block;
-		height: 10em;
-		width: 100%;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
