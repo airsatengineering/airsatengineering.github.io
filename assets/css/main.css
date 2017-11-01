@@ -1726,7 +1726,7 @@
 	}
 
 	header.major h2 {
-		color: #04688e;/*#4acaa8;*/
+		color: #0576b2;/*#4acaa8;*/
 		font-size: 3.5em;
 	}
 
@@ -2606,7 +2606,7 @@
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 20em;
+		height: 10em;
 		width: 100%;
 		/*background: #0576b2;
 		display: block;
