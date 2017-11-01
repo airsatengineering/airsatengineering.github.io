@@ -2599,7 +2599,7 @@
 
 /* One */
 
-	#one:before {
+	/*#one:before {
 		background-image: url("../../images/banner.jpg");
 		background-position: top center;
 		background-repeat: no-repeat;
@@ -2611,8 +2611,8 @@
 		/*background: #0576b2;
 		display: block;
 		height: 20em;
-		width: 100%;*/
-	}
+		width: 100%;
+	} */
 
 /* Footer */
 
