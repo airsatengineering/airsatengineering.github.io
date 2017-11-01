@@ -2379,7 +2379,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #3e98bc; /* 4acaa8 Turquoise color */
+			background-color: #4298f4; /* 4acaa8 Turquoise color */
 			color: #ffffff !important;
 		}
 
@@ -2387,7 +2387,7 @@
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			.button.special:hover {
-				background-color: #186f91; /* 5ed0b1 */
+				background-color: #0458b2; /* 5ed0b1 */
 			}
 
 			input[type="submit"].special:active,
