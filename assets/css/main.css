@@ -2608,6 +2608,10 @@
 		display: block;
 		height: 20em;
 		width: 100%;
+		/*background: #0576b2;
+		display: block;
+		height: 20em;
+		width: 100%;*/
 	}
 
 /* Footer */
@@ -2848,7 +2852,7 @@
 					}
 
 					#titleBar .toggle:before {
-						background: #04688e; /*#4acaa8;*/
+						background: #0576b2; /*#4acaa8;*/
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
