@@ -2599,21 +2599,21 @@
 
 /* One */
 
-	/*#one:before {
-		background-image: url("../../images/banner.jpg");
+	#one:before {
+		background-image: url("../../images/Logo1.jpg");
 		background-position: top center;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 0em;
+		height: 20em;
 		width: 100%;
 		/*background: #0576b2;
 		display: block;
 		height: 20em;
 		width: 100%;
-	}
-*/
+	} */
+
 /* Footer */
 
 	#footer {
@@ -2731,11 +2731,11 @@
 		/* Image */
 
 			.image.left, .image.right {
-				max-width: 40%;
+				max-width: 100%;
 			}
 
 				.image.left img, .image.right img {
-					width: 100%;
+					max-width: 100%;
 				}
 
 		/* Header */
