@@ -2011,12 +2011,12 @@
 		.image.fit {
 			display: block;
 			margin: 0 0 2.25em 0;
-			max-width: 100%;
+			width: 100%;
 		}
 
 			.image.fit img {
 				display: block;
-				max-width: 100%;
+				width: 100%;
 			}
 
 		.image.avatar {
@@ -2599,14 +2599,14 @@
 
 /* One */
 
-	/*#one:before {
-		background-image: url("../../images/banner.jpg");
+	#one:before {
+		background-image: url("../../images/Logo1.jpg");
 		background-position: top center;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 0em;
+		height: 20em;
 		width: 100%;
 		/*background: #0576b2;
 		display: block;
