@@ -2428,7 +2428,7 @@
 			display: inline-block;
 			padding-right: 2.5em;
 			vertical-align: middle;
-			width: 48%;
+			max-width: 100%;
 		}
 
 			.features article .image img {
@@ -2606,14 +2606,14 @@
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 0em;
+		height: 1em;
 		width: 100%;
 		/*background: #0576b2;
 		display: block;
 		height: 20em;
 		width: 100%;
-	} */
-
+	}
+*/
 /* Footer */
 
 	#footer {
